@@ -23,7 +23,7 @@
 #nav a {
   font-weight: bold;
   color: #2c3e50;
-  text-decoration: node;
+  text-decoration: none;
   padding: 10px;
   border-radius: 4px;
 }

@@ -15,3 +15,4 @@
 2.  Folder Structure
 3.  Route Parameters
 4.  Dynamic Links
+5.  Readirects & 404's
