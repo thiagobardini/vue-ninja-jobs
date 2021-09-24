@@ -12,3 +12,4 @@
 ## Project Steps by Commits
 
 1.  Router Links
+2.  Folder Structure
