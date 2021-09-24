@@ -1,19 +1,6 @@
 # vue-ninja-jobs
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1. creating Vue Project: `vue create vue-ninja-jobs`
+1. ![seq](https://i.imgur.com/uc6d1IA.png)
+1. ![seq](https://i.imgur.com/NEPvLgZ.png)
+1. ![seq](https://i.imgur.com/m8DdMU4.png)
