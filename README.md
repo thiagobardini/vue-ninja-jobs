@@ -16,3 +16,6 @@
 3.  Route Parameters
 4.  Dynamic Links
 5.  Readirects & 404's
+6.  Programmatic Navigation
+7.  Video 9 - JSON Server
+    1.  ![](https://i.imgur.com/OmT1DL7.png)
