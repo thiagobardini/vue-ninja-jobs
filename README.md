@@ -17,5 +17,11 @@
 4.  Dynamic Links
 5.  Readirects & 404's
 6.  Programmatic Navigation
+
+> (Video 9 ...)
+
 7.  Video 9 - JSON Server
-    1.  ![](https://i.imgur.com/OmT1DL7.png)
+    - ![](https://i.imgur.com/OmT1DL7.png)
+    - Installing json-server - `npm install json-server`
+    - Watch the data base - `json-server --watch data/db.json`
+8.  Fetching Data
