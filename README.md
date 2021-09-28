@@ -25,6 +25,8 @@
     - Installing json-server - `npm install json-server`
     - Watch the data base - `json-server --watch data/db.json`
 8.  Fetching Data
-9.  Conditionally Showing Data
+9.  Conditionally Showing Data & videos
 
-> [Video about: router and sub component](https://youtu.be/7EMN_ePQsnE) > [Video about: Json server - Fetching Data](https://youtu.be/MQ5_ho3IV50)
+> [Video about: router and sub component](https://youtu.be/7EMN_ePQsnE)
+
+> [Video about: Json server - Fetching Data](https://youtu.be/MQ5_ho3IV50)
